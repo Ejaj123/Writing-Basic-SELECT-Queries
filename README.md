@@ -1,4 +1,5 @@
 # Writing-Basic-SELECT-Queries
+# in this i have made a database company in which 2 tables employee and Department created and fetched data by select, where, or , and , between, like, order by commands. 
 
 create database company;
 use company;
